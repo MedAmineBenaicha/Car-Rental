@@ -1,5 +1,18 @@
 # Car rental - java SE application
 
+
+### Car Rental Application Preview
+
+### Development Languages and Skills
+- Java
+- MySQL
+- Swing
+- Adobe Photoshop 
+- Git 
+
+### Business Size Experience
+Small (10-99 employees)
+
 ## Project Description :
 Car rental is a service offered by professionals who own cars . This service consists for the customer to reserve and use a vehicle for a given period ranging from a few hours to several months. 
 
